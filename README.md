@@ -15,5 +15,5 @@
 ### transitions_11
 ![image](https://user-images.githubusercontent.com/114879123/230371393-920fa512-fb8f-4744-b1f6-e1468f8b6447.png)
 ### UCSC GenomeBrowser
-![image](https://user-images.githubusercontent.com/114879123/230392399-2d84b5fa-687a-40a0-b532-1ecf87a98168.png)
+![image](https://user-images.githubusercontent.com/114879123/230468815-1e0361ac-0242-4b3b-9f10-9492691b4ba4.png)
 
