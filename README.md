@@ -18,5 +18,10 @@
 ![image](https://user-images.githubusercontent.com/114879123/230468815-1e0361ac-0242-4b3b-9f10-9492691b4ba4.png)
 ![image](https://user-images.githubusercontent.com/114879123/230482216-b0b149d2-b2a9-4c4b-a071-eeb139cafff6.png)
 ![image](https://user-images.githubusercontent.com/114879123/230485832-20e1d020-ad9f-4247-9f45-3c1c623d2705.png)
+### Бонус
+![image](https://user-images.githubusercontent.com/114879123/230492733-19f2e386-c6a7-4302-b0a2-fed4cb073f6c.png)
+![image](https://user-images.githubusercontent.com/114879123/230492834-95492360-2f08-4a9f-aa5c-b8fc72babfdc.png)
+
+
 
 
